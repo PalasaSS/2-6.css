@@ -1,0 +1,195 @@
+.web-page-main-div {
+    display: inline-block;
+    max-width: 1604px;
+    width: 100%;
+    padding: 96px;
+    background-color: #E4EBFF;
+}
+
+#second-main-div {
+    display: inline-block;
+    width: 1580px;
+    background-color: white;
+}
+
+#header-text-div {
+    display: inline-block;
+    width: 1216px;
+    margin-left: 32px;
+}
+
+#features-p {
+    display: inline-block;
+    width: 929px;
+    font-size: 16px;
+    color: #6941C6;
+    text-align: center;
+    margin-top: 96px;
+    margin-left: 337.5px;
+}
+
+#Analytics-header {
+    display: inline-block;
+    width: 929px;
+    font-size: 40px;
+    color: #181D27;
+    text-align: center;
+    margin: 0 auto;
+    margin-left: 337.5px;
+}
+
+#startups-p {
+    display: inline-block;
+    width: 1216px;
+    font-size: 20px;
+    color: #535862;
+    margin-left: 286px;
+}
+
+#team-inboxes-main-div {
+    display: inline-block;
+    width: 1280px;
+    margin-left: 162px;
+    margin-bottom: 96px;
+}
+
+#team-inboxes-div {
+    display: inline-block;
+    width: 553px;
+}
+
+#chatcircle {
+    display: inline-block;
+    margin-left: 32px;
+    margin-top: 89px;
+}
+
+#team-boxes-header {
+    display: inline-block;
+    width: 553px;
+    font-size: 30px;
+    color: #181D27;
+    margin-left: 32px;
+    margin-bottom: 0px;
+}
+
+#team-boxes-undertext {
+    display: inline-block;
+    width: 553px;
+    font-size: 18px;
+    color: #535862;
+    margin-top: 16px;
+    margin-left: 32px;
+    margin-bottom: 32px;
+}
+
+.check-circle {
+    display: inline-block;
+    margin-left: 32px;
+    vertical-align: middle;
+    margin-bottom: 20px;
+}
+
+.check-circle-text {
+    display: inline-block;
+    margin: 0 auto;
+    vertical-align: middle;
+    margin-left: 12px;
+    font-size: 18px;
+    color: #535862;
+    margin-bottom: 20px;
+}
+
+#first-image-div {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 101px;
+    margin-bottom: 84px;
+}
+
+#dashboard-main-div {
+    width: 1580px;
+    display: inline-block;
+    margin-bottom: 89px;
+}
+
+#second-image {
+    display: inline-block;
+    margin-left: 162px;
+}
+
+#answers-main-div {
+    display: inline-block;
+    width: 580px;
+    margin-left: 96px;
+    vertical-align: top;
+    margin-top: 89px;
+}
+
+#answers-img {
+    display: inline-block;
+    margin-left: 32px;
+}
+
+#answers-header {
+    display: inline-block;
+    width: 580px;
+    font-size: 30px;
+    color: #181D27;
+    margin-left: 96px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-left: 32px;
+}
+
+#answers-p {
+    display: inline-block;
+    width: 580px;
+    font-size: 16px;
+    color: #535862;
+    margin: 0 auto;
+    margin-bottom: 32px;
+    margin-left: 32px;
+}
+
+#third-main-div {
+    display: inline-block;
+    width: 1580px;
+}
+
+#reports-main-div {
+    display: inline-block;
+    width: 560px;
+    margin-left: 162px;
+}
+
+#reports-img {
+    display: inline-block;
+    margin-bottom: 16px;
+    margin-left: 32px;
+}
+
+#reports-header {
+    display: inline-block;
+    width: 560px;
+    color: #181D27;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 16px;
+    margin-left: 32px;
+}
+
+#reports-p {
+    display: inline-block;
+    width: 560px;
+    font-size: 16px;
+    color: #535862;
+    margin-top: 16px;
+    margin-left: 32px;
+}
+
+#third-img-div {
+    display: inline-block;
+    width: 752.94px;
+    margin-left: 101px;
+}
